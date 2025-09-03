@@ -1,0 +1,7 @@
+Pada hari Rabu, 3 September 2025 diadakan Praktikum Control Cerdas yang membahas tentang Introduction to Intelligent Control Systems. Sebelum melakukan Praktikum kali ini menggunakan software Visual Studio Code, Phyton, Git Bash dan Git Hub. 
+Setelah itu membuat akun kaggle untuk mengunduh dataset yang dibutuhkan.
+Pada saat proses clone, terdapat kesalahan pada terminal dikarenakan harus mendownload terlebih dahulu software git bash yang nantinya digunakan untuk clone. 
+Kemudian terdapat kesalahan pada software Phyton sebelumnya mendownload phyton versi 3.11.13 dan ternyata tidak dapat digunakan, dan selanjutnya mendownload software phyton versi 3.11.6 dan aplikasi dapat digunakan. Phyton sangat berpengaruh karena untuk pemograman 
+Setelah itu  menggunakan aplikasi Visual Studio Code untuk coding program dan nantinya akan di running, dan output dari running akan terbuka pada software phyton, selanjutnya tertaut pada kamera laptop dan menghasilkan deteksi secara real time. 
+Warna yang terdeteksi adalah merah, biru, kuning, hijau.
+Namun, metode ini memiliki keterbatasan, seperti kesalahan deteksi akibat perubahan pencahayaan atau keberadaan objek lain dengan warna serupa.
